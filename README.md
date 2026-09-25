@@ -1,4 +1,4 @@
-# tml (Trizyal Utility Library)
+# tml (Maths Utility Library)
 
 **tml** is a lightweight, header-only C++20 utility library designed to solve common modern C++ headaches—specifically, the friction between signed 32-bit integers (common in game development and formats like glTF) and unsigned 64-bit `size_t` containers (like `std::vector`), while enforcing strict compiler warnings without spam.
 
